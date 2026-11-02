@@ -1,0 +1,11 @@
+pandas
+numpy
+geopandas
+shapely
+folium
+mapclassify
+seaborn
+matplotlib
+plotly
+requests
+openpyxl
